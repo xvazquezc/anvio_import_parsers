@@ -19,7 +19,6 @@ Script for parsing [InterProScan](https://github.com/ebi-pf-team/interproscan) a
 > Requires GNU `getopt`, installable in Mac using [MacPorts](https://www.macports.org/install.php) with `sudo port install getopt`
 
 Help:
-
 ```
 iprs2anvio.sh v0.1
 
